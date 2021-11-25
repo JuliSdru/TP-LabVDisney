@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Disney</string>
+    <string name="name">TextView</string>
+
+    <string-array name="spinner_array_categories">
+        <item>general</item>
+        <item>shortFilms</item>
+        <item>tvShows</item>
+        <item>videoGames</item>
+
+    </string-array>
+
+</resources>
